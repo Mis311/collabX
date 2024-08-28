@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "kinto-web-sdk": "^1.0.2"
+  }
+}
